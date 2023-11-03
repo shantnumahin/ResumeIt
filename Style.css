@@ -1,0 +1,70 @@
+
+            
+.my_backgrond{
+    background-image: url("image/background.png");
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 5px;
+    background-color: rgb(85, 157, 185);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+} 
+.our_msg{
+    height: 40px;
+    background-color: #ffffff;
+    width: 80%;
+    text-align: center;
+    padding: 10px;
+    align-items: center;
+    margin-bottom: 35px;
+    font-size: 0.85em;
+ 
+}
+ @media  (max-width:975px) {
+    .our_msg{
+        height: 80px;
+    }
+       
+
+}
+
+/* Footer section */
+.backtop{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(10, 26, 44);
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.backtop a{
+        text-decoration: none;
+        color: #ffffff;
+}
+.career a{
+    display: block;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+.myfooter{
+    background-color: rgb(24, 40, 59);
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.social  {
+    height: 60px;
+    background-color: rgb(24, 40, 59);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.social i{
+    margin: 10px;
+    color: #ffffff;
+}
