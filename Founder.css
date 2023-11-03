@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+fieldset{
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+fieldset p{
+    font-size: 2rem;
+}
+img{
+    border: 2px solid;
+    border-radius: 5px;
+}
+ i{
+    margin: 10px;
+    margin-bottom: 25px;
+}
